@@ -12,4 +12,4 @@ A website that offers fitness training services.
 https://mladen1506.github.io/run-buddy/
 
 # Contribution
-Made with ❤️ by Mladen Makivic
+Made by Mladen Makivic
